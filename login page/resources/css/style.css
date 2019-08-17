@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section-form{
+    margin: 150px auto;
+    display: block;
+   
+    height: 100vh;
+    width: 60%;
+}
+
+.row label{
+    margin-left: 100px;
+    padding-top:40px;
+    
+    
+}
+.span-1-of-3{
+    margin-right: 0;
+    margin-top: 20px;
+}
+.span-2-of-3{
+    margin-left:0;
+}
+
+input[type="phno"],
+input[type="pass"]{
+    width: 60%;
+    height: 35px;
+    border: 1px solid #9d9d9d;
+    border-radius: 3px;
+    padding: 10px;
+}
+input[type="submit"]{
+    margin: 20px 250px;
+    
+}
+
+.submit{
+    width: 20%;
+    float: left;
+    margin-left: 10px;
+}
+.forgot{
+    float: right;
+    width: 65%;
+    margin-top: 10px;
+    margin-left: 0;
+}
+
+
+
+
